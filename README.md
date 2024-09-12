@@ -124,22 +124,17 @@ plt.show()
 # OUTPUT:
 ## DATASET:
 
-![Screenshot 2024-09-12 093421](https://github.com/user-attachments/assets/22f148bc-0e23-4246-862f-2341852b7a05)
+![Screenshot 2024-09-12 093421](https://github.com/user-attachments/assets/868ce816-ccc2-4b27-952f-c5322946cbdc)
 
-![Uploading Screenshot 2024-09-12 093445.png…]()
-
-
+![Screenshot 2024-09-12 093445](https://github.com/user-attachments/assets/3916eedb-af4a-4eed-8841-ea5f276ecfe7)
 
 ## SCATTERPLOT:
 
-![Uploading Screenshot 2024-09-12 093456.png…]()
-
-
+![Screenshot 2024-09-12 093456](https://github.com/user-attachments/assets/696f0629-a433-4ad7-8150-c6a086514f79)
 
 ## ERRORPLOT AND ACCURACY
 
-![Uploading Screenshot 2024-09-12 093505.png…]()
-
+![Screenshot 2024-09-12 093505](https://github.com/user-attachments/assets/e116ae0c-4d9f-46f5-9be1-933619bd5c62)
 
 # RESULT:
 Thus, a single layer perceptron model is implemented using python to classify Iris data set.
