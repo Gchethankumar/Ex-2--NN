@@ -99,8 +99,8 @@ plt.show()
 
 x = x[0:100, 0:2] 
 y = y[0:100]
-plt.scatter(x[:50, 0], x[:50, 1], color='blue', marker='o', label='Setosa')
-plt.scatter(x[50:100, 0], x[50:100, 1], color='red', marker='x',label='Versicolour')
+plt.scatter(x[:50, 0], x[:50, 1], color='red', marker='o', label='Setosa')
+plt.scatter(x[50:100, 0], x[50:100, 1], color='blue', marker='x',label='Versicolour')
 plt.xlabel("Sepal length")
 plt.ylabel("Petal length")
 plt.legend(loc='upper left')
