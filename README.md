@@ -123,17 +123,14 @@ plt.show()
 
 # OUTPUT:
 ## DATASET:
-
 ![Screenshot 2024-09-12 093421](https://github.com/user-attachments/assets/868ce816-ccc2-4b27-952f-c5322946cbdc)
 
 ![Screenshot 2024-09-12 093445](https://github.com/user-attachments/assets/3916eedb-af4a-4eed-8841-ea5f276ecfe7)
 
 ## SCATTERPLOT:
-
 ![Screenshot 2024-09-12 093456](https://github.com/user-attachments/assets/696f0629-a433-4ad7-8150-c6a086514f79)
 
 ## ERRORPLOT AND ACCURACY
-
 ![Screenshot 2024-09-12 093505](https://github.com/user-attachments/assets/e116ae0c-4d9f-46f5-9be1-933619bd5c62)
 
 # RESULT:
